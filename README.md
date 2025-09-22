@@ -13,4 +13,4 @@ A Variety of Programming and Cybersecurity Projects
 * ❤️ I love Cybersecurity
 * ⚡ Fun fact: I competetively solve Rubik's Cubes
 
-* Below are projects I've created through my many years of learning how to program!
+Below are projects I've created through my many years of learning how to program!
