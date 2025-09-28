@@ -26,4 +26,4 @@ A Variety of Programming and Cybersecurity Projects
 </a>
 </p>
 
-Below are projects I've created through my many years of learning how to program!
+<p align="center">Below are projects I've created through my many years of learning how to program!</p>
