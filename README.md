@@ -12,19 +12,18 @@ A Variety of Programming and Cybersecurity Projects
 * ❤️ I love Cybersecurity
 * ⚡ Fun fact: I competetively solve Rubik's Cubes
 
-
+<p align="center">
 <a href="https://www.linkedin.com/in/rhett-klauer-565b9b362/">
   <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/lin.png"/>
 </a>
-
 
 <a href="https://www.youtube.com/@Cubeology">
   <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/youtubee.png"/>
 </a>
 
-
 <a href="https://rhettklauer@gmail.com">
   <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/gmail.png"/>
 </a>
+</p>
 
 Below are projects I've created through my many years of learning how to program!
