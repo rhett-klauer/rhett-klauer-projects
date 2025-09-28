@@ -20,7 +20,7 @@ A Variety of Programming and Cybersecurity Projects
   <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/youtubee.png"/>
 </a>
 
-<a href="rhettklauer@gmail.com">
+<a href="https://rhettklauer@gmail.com">
   <img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/gmail.png"/>
 </a>
 
