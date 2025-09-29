@@ -1,5 +1,5 @@
 <p align="center">
-<img height="50" src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/floodedjapan.gif"/>
+<img src="https://github.com/rhett-klauer/rhett-klauer-projects/blob/main/.github/images/floodedjapan.gif"/>
 </p>
 
 # rhett-klauer-projects
